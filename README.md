@@ -55,7 +55,33 @@ github/
 
 The code in `lib/`, `tracking/`, and `experiments/` has been trimmed for the main CMRTrack experiment. It keeps only the test-time OSTrack/CMRTrack model, Anti-UAV410 evaluation code, utility functions required by inference, and the `ostrack_motion_v166_single` configuration. Training code, unrelated tracker variants, unrelated experiment YAML files, notebooks, demos, and visualization scripts are not included.
 
-The checkpoint file `OSTrack_ep0030.pth.tar` is not committed to this GitHub repository because it is about 1.1 GB. Its expected location and SHA256 checksum are provided in `checkpoints/README.md`.
+The checkpoint file `OSTrack_ep0030.pth.tar` is not committed to this GitHub repository because it is about 1.1 GB. Please download it from the GitHub Release page and place it under `checkpoints/`. Details are provided below and in `checkpoints/README.md`.
+
+## Checkpoint
+
+Download the best checkpoint from the release page:
+
+```text
+https://github.com/1286710929/Counterfactual_Motion_Reliability_Learning_for_Infrared_UAV_Tracking/releases/download/v1.0.0/OSTrack_ep0030.pth.tar
+```
+
+Then place it at:
+
+```text
+checkpoints/OSTrack_ep0030.pth.tar
+```
+
+SHA256:
+
+```text
+f3236be0aa911550a100c7f7940885148b4bc498d417f661e7ebb3b70d49d737
+```
+
+You can verify the downloaded checkpoint with:
+
+```bash
+sha256sum checkpoints/OSTrack_ep0030.pth.tar
+```
 
 ## Reproduce Evaluation
 
