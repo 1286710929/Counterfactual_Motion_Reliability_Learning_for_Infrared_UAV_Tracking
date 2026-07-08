@@ -1,0 +1,80 @@
+
+================================================================================
+Time: 2026-06-23 00:35:56
+Tracker: ostrack  Param: ostrack_motion_v166_single  Dataset: antiuav410_test  Run ID: [5]
+Reporting results over 120 / 120 sequences
+
+antiuav410_test                             | AUC        | OP50       | OP75       | Precision    | Norm Precision    | mSA        |
+ostrack_ostrack_motion_v166_single_005      | 62.54      | 80.60      | 52.87      | 84.56        | 80.97             | 63.64      |
+
+================================================================================
+Time: 2026-06-23 01:10:23
+Tracker: ostrack  Param: ostrack_motion_v166_single  Dataset: antiuav410_test  Run ID: [10]
+Reporting results over 120 / 120 sequences
+
+antiuav410_test                             | AUC        | OP50       | OP75       | Precision    | Norm Precision    | mSA        |
+ostrack_ostrack_motion_v166_single_010      | 63.50      | 81.61      | 54.08      | 85.62        | 81.90             | 64.64      |
+
+================================================================================
+Time: 2026-06-23 01:44:48
+Tracker: ostrack  Param: ostrack_motion_v166_single  Dataset: antiuav410_test  Run ID: [15]
+Reporting results over 120 / 120 sequences
+
+antiuav410_test                             | AUC        | OP50       | OP75       | Precision    | Norm Precision    | mSA        |
+ostrack_ostrack_motion_v166_single_015      | 63.60      | 81.45      | 55.54      | 85.25        | 81.76             | 64.74      |
+
+================================================================================
+Time: 2026-06-23 02:19:11
+Tracker: ostrack  Param: ostrack_motion_v166_single  Dataset: antiuav410_test  Run ID: [20]
+Reporting results over 120 / 120 sequences
+
+antiuav410_test                             | AUC        | OP50       | OP75       | Precision    | Norm Precision    | mSA        |
+ostrack_ostrack_motion_v166_single_020      | 66.63      | 85.40      | 57.65      | 89.44        | 85.31             | 67.83      |
+
+================================================================================
+Time: 2026-06-23 02:53:35
+Tracker: ostrack  Param: ostrack_motion_v166_single  Dataset: antiuav410_test  Run ID: [25]
+Reporting results over 120 / 120 sequences
+
+antiuav410_test                             | AUC        | OP50       | OP75       | Precision    | Norm Precision    | mSA        |
+ostrack_ostrack_motion_v166_single_025      | 66.72      | 85.36      | 58.25      | 89.30        | 85.38             | 67.92      |
+
+================================================================================
+Time: 2026-06-23 03:08:09
+Tracker: ostrack  Param: ostrack_motion_v166_single  Dataset: antiuav410_test  Run ID: [26]
+Reporting results over 120 / 120 sequences
+
+antiuav410_test                             | AUC        | OP50       | OP75       | Precision    | Norm Precision    | mSA        |
+ostrack_ostrack_motion_v166_single_026      | 66.73      | 85.13      | 58.99      | 89.01        | 85.32             | 67.93      |
+
+================================================================================
+Time: 2026-06-23 03:22:41
+Tracker: ostrack  Param: ostrack_motion_v166_single  Dataset: antiuav410_test  Run ID: [27]
+Reporting results over 120 / 120 sequences
+
+antiuav410_test                             | AUC        | OP50       | OP75       | Precision    | Norm Precision    | mSA        |
+ostrack_ostrack_motion_v166_single_027      | 66.48      | 84.98      | 58.30      | 88.90        | 85.08             | 67.68      |
+
+================================================================================
+Time: 2026-06-23 03:37:15
+Tracker: ostrack  Param: ostrack_motion_v166_single  Dataset: antiuav410_test  Run ID: [28]
+Reporting results over 120 / 120 sequences
+
+antiuav410_test                             | AUC        | OP50       | OP75       | Precision    | Norm Precision    | mSA        |
+ostrack_ostrack_motion_v166_single_028      | 66.56      | 85.01      | 58.31      | 89.01        | 85.23             | 67.76      |
+
+================================================================================
+Time: 2026-06-23 03:51:45
+Tracker: ostrack  Param: ostrack_motion_v166_single  Dataset: antiuav410_test  Run ID: [29]
+Reporting results over 120 / 120 sequences
+
+antiuav410_test                             | AUC        | OP50       | OP75       | Precision    | Norm Precision    | mSA        |
+ostrack_ostrack_motion_v166_single_029      | 66.63      | 85.24      | 58.25      | 89.14        | 85.38             | 67.82      |
+
+================================================================================
+Time: 2026-06-23 04:06:17
+Tracker: ostrack  Param: ostrack_motion_v166_single  Dataset: antiuav410_test  Run ID: [30]
+Reporting results over 120 / 120 sequences
+
+antiuav410_test                             | AUC        | OP50       | OP75       | Precision    | Norm Precision    | mSA        |
+ostrack_ostrack_motion_v166_single_030      | 67.26      | 86.03      | 58.98      | 89.91        | 86.16             | 68.48      |
